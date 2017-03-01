@@ -1,4 +1,0 @@
-<testSet title="All shell tests">
-    <include setName="bjorne/bjorne-shell-tests.xml"/>
-    <include setName="bjorne/bjorne-builtin-tests.xml"/>
-</testSet>
